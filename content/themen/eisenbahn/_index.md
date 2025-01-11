@@ -47,12 +47,14 @@ Es ist auch möglich, auf den Gleisen automatisiert zu navigieren. Natürlich
 reicht das nicht aus, um festzustellen, ob eine Verbindung wirklich möglich
 ist, aber um zum Beispiel für den Güterverkehr eine erste Abschätzung zu
 treffen, ob ein Transport per Bahn vielleicht möglich oder wie groß der
-CO&#x2082;-Ausstoß wäre, dafür reicht es allemal.
+CO&#x2082;-Ausstoß wäre, dafür reicht es allemal, aber auch zur Anzeige des
+gefahren Wegs in der Fahrgastinformation nutzen einige Eisenbahnverkehrsunternehmen ein Eisenbahnrouting in Openstreetmap.
 
 ## Weiterführende Informationen
 
 Details zu Eisenbahnen im OSM-Wiki: [Railways](https://wiki.openstreetmap.org/wiki/Railways),
 [Map Features: Railway](https://wiki.openstreetmap.org/wiki/Map_features#Railway),
+[DE:OpenRailwayMap/Tagging](https://wiki.openstreetmap.org/wiki/DE:OpenRailwayMap/Tagging),
 [Key:railway](https://wiki.openstreetmap.org/wiki/DE:Key:railway).
 {.link-extern}
 
